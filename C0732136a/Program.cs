@@ -10,6 +10,10 @@ namespace C0732136a
     {
         static void Main(string[] args)
         {
+            int i = 3;
+            Console.WriteLine(i);
+            Console.WriteLine(i+1);
+            Console.ReadLine();
         }
     }
 }
